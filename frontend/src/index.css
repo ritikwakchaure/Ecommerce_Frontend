@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+}
+body {
+  margin: 0;
+  font-family: 'Poppins', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-family: "Poppins";
+}
+
+code {
+  font-family: 'Courier New', Courier, monospace;
+}
